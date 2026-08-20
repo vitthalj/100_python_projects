@@ -13,7 +13,7 @@ from collections import Counter
 # print(result)
 
 # name = "welcome"
-# print(name[:3])
+# print(name[::-1])
 
 # n = 4
 # numbers = ""
@@ -116,6 +116,6 @@ def count_frequency(name = "banana"):
 
 
 
-count_frequency()
+# count_frequency()
 #print(second_largest([4,7,8,5,6]))
 #print(largest_number([1, 2, 5, 5, 3]))  # Output: 5
